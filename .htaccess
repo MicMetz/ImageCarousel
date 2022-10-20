@@ -1,5 +1,1 @@
-DirectoryIndexRedirect on
-<Directory "/ImageCarousel">
-    DirectoryIndex assignment9.html
-    DirectoryIndex index.html
-</Directory>
+Redirect /index.html /assignment9.html
