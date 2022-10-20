@@ -1,0 +1,5 @@
+DirectoryIndexRedirect on
+<Directory "/foo">
+    DirectoryIndex assignment9.html
+    DirectoryIndex index.html
+</Directory>
